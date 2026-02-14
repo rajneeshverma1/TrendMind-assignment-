@@ -60,9 +60,6 @@ export default function Home() {
             Professional-grade content generation for executives and industry leaders.
             High-impact LinkedIn posts tailored to your voice and audience.
           </p>
-          <p className="text-[10px] text-slate-400 dark:text-slate-500 font-bold uppercase tracking-[0.2em] pt-4">
-            Designed by Rajneesh Verma
-          </p>
         </div>
 
         {/* Main Content Grid */}
@@ -84,7 +81,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className="text-center text-slate-400 text-sm pt-8 border-t border-slate-100 dark:border-slate-800">
-          <p>© 2026 TrendMind – Professional AI Content Assessment</p>
+          <p>© 2026 TrendMind - Made by rajneesh</p>
         </footer>
       </div>
     </main>
